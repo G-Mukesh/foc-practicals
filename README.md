@@ -55,4 +55,10 @@
 ![image](https://user-images.githubusercontent.com/122169271/214486761-8fd5c5c6-293c-4644-b0f2-2d73fe1c2fd6.png)
 
 
+#palindrome 
+
+![image](https://user-images.githubusercontent.com/122169271/214488715-9b80ded7-c9a5-40aa-a0d0-4cd3c11b556b.png)
+
+
+
 
