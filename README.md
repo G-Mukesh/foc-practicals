@@ -50,3 +50,9 @@
 ![image](https://user-images.githubusercontent.com/122169271/214478938-068fe386-ab33-401f-8713-2d9de1793255.png)
 
 
+#factorial
+
+![image](https://user-images.githubusercontent.com/122169271/214486761-8fd5c5c6-293c-4644-b0f2-2d73fe1c2fd6.png)
+
+
+
