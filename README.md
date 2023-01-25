@@ -11,7 +11,8 @@
 
 #area of shapes
 
-![image](https://user-images.githubusercontent.com/122169271/214477726-e3b7d4cb-766d-4dcf-ab33-3bcc3fd57290.png)
+![image](https://user-images.githubusercontent.com/122169271/214479245-6aff5d0b-6612-4c18-95a7-d01b512ef54e.png)
+
 
 
 #read a number and find its square
