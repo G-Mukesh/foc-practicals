@@ -65,6 +65,11 @@
 ![image](https://user-images.githubusercontent.com/122169271/214511656-7c9e803d-a460-448a-b674-847420bbaa06.png)
 
 
+#quadratic equation
+
+![image](https://user-images.githubusercontent.com/122169271/214522538-a772a7f2-a9ac-45cf-af12-eb76103991a1.png)
+
+
 
 
 
