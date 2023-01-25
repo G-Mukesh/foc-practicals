@@ -60,5 +60,11 @@
 ![image](https://user-images.githubusercontent.com/122169271/214488715-9b80ded7-c9a5-40aa-a0d0-4cd3c11b556b.png)
 
 
+#decimal to binary conversion
+
+![image](https://user-images.githubusercontent.com/122169271/214511656-7c9e803d-a460-448a-b674-847420bbaa06.png)
+
+
+
 
 
