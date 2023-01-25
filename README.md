@@ -8,3 +8,5 @@
 #area of shapes
 ![image](https://user-images.githubusercontent.com/122169271/214477726-e3b7d4cb-766d-4dcf-ab33-3bcc3fd57290.png)
 
+#read a number and find its square
+![image](https://user-images.githubusercontent.com/122169271/214476969-1dae8d54-207d-49c9-bdfc-ea8f67768161.png)
