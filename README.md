@@ -71,5 +71,52 @@
 
 
 
+# C-Programs
+
+#1-2+3-4 series
+
+![image](https://user-images.githubusercontent.com/122169271/215381250-85edce80-f94a-4ac5-be6d-a578873f694d.png)
+
+
+#armstrong number
+
+![image](https://user-images.githubusercontent.com/122169271/215381386-ef30e6ab-ecaf-405c-a081-cc973a6929fe.png)
+
+
+#average of n numbers
+
+![image](https://user-images.githubusercontent.com/122169271/215381502-64f05f45-a082-4acd-b05b-d3c2b8ff7d72.png)
+
+
+#binary to decimal
+
+![image](https://user-images.githubusercontent.com/122169271/215381628-5dacca33-e00b-43d0-9abf-0f8a7ec83f9c.png)
+
+
+#deccimal to binary
+
+![image](https://user-images.githubusercontent.com/122169271/215381957-04c756c8-7e23-4f16-a073-b6ac0fff3ce6.png)
+
+
+#decimal to hexa
+
+![image](https://user-images.githubusercontent.com/122169271/215382068-5a872f9e-75ba-4d34-ba8c-153f54ca2b2a.png)
+
+
+#decimal to octal
+
+![image](https://user-images.githubusercontent.com/122169271/215382165-74ebb169-7b78-4f41-9238-c88370ad80a8.png)
+
+
+#digits of a number
+
+![image](https://user-images.githubusercontent.com/122169271/215382261-b965bb2c-e5a4-4eb5-b684-c2af0641071a.png)
+
+
+
+
+
+
+
 
 
