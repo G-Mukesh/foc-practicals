@@ -113,6 +113,53 @@
 ![image](https://user-images.githubusercontent.com/122169271/215382261-b965bb2c-e5a4-4eb5-b684-c2af0641071a.png)
 
 
+#even number series
+
+![image](https://user-images.githubusercontent.com/122169271/215389248-97aed7d1-51b3-481e-befe-6884fd3ccbb9.png)
+
+
+#factorial
+
+![image](https://user-images.githubusercontent.com/122169271/215389391-39fe6e65-800e-4adc-a386-b4f391650706.png)
+
+
+#fibonacci series
+
+![image](https://user-images.githubusercontent.com/122169271/215389552-eeaf494b-ac2d-460c-ae4b-e8a3eddfdc82.png)
+
+
+#finding if odd or even
+
+![image](https://user-images.githubusercontent.com/122169271/215389662-7f269fea-879c-4025-8e71-406811c7604e.png)
+
+
+#finding if -ve  or +ve
+
+![image](https://user-images.githubusercontent.com/122169271/215389855-b6935d15-f7fa-41f2-a41a-ae86f417dd62.png)
+
+
+#hexadecimal to decimal
+
+![image](https://user-images.githubusercontent.com/122169271/215390166-17c266e0-fac3-4c6e-8ecc-3be473116e46.png)
+
+
+#octal to decimal
+
+![image](https://user-images.githubusercontent.com/122169271/215391194-322f8fb0-ba52-4905-a408-000f5694d7d0.png)
+
+
+#reversing digits of a number
+
+![image](https://user-images.githubusercontent.com/122169271/215391811-3de00c0c-ed30-434b-81bd-3a7d23c32b94.png)
+
+
+
+
+
+
+
+
+
 
 
 
