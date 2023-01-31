@@ -153,6 +153,42 @@
 ![image](https://user-images.githubusercontent.com/122169271/215391811-3de00c0c-ed30-434b-81bd-3a7d23c32b94.png)
 
 
+#sum of squares of odd numbers
+
+![image](https://user-images.githubusercontent.com/122169271/215651352-3b27ff6c-4dd2-48cb-b0d5-fdd4aaabcac1.png)
+
+
+#sum of cubes of n numbbers
+
+![image](https://user-images.githubusercontent.com/122169271/215651632-8ea9517d-5694-4830-ae48-559fc7cfdae3.png)
+
+
+#sum of digits of given number
+
+![image](https://user-images.githubusercontent.com/122169271/215651814-7919debf-c31e-4894-a6da-ca16276347d5.png)
+
+
+#sum of even numbers
+
+![image](https://user-images.githubusercontent.com/122169271/215651940-8624378c-3a1f-49cc-8929-1df3b800b32d.png)
+
+
+#sum of n numbers
+
+![image](https://user-images.githubusercontent.com/122169271/215652042-3370a404-a81c-49c0-8282-cd8c9dcd4697.png)
+
+
+#sum of odd numbers
+
+![image](https://user-images.githubusercontent.com/122169271/215652140-a508410b-f367-4630-8369-ee64c9b564b2.png)
+
+
+
+
+
+
+
+
 
 
 
